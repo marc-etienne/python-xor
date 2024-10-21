@@ -1,0 +1,14 @@
+[project]
+name="xor"
+version="0.1"
+requires-python = ">=3.7"
+description = "xor things"
+authors = [
+  {name = "Marc-Etienne M.Léveillé", email = "m@rc.etienne.ml" }
+]
+maintainers = [
+  {name = "Marc-Etienne M.Léveillé", email = "m@rc.etienne.ml" }
+]
+
+[tool.setuptools]
+py-modules = ["xor"]
